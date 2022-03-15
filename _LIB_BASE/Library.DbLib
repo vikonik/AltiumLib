@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=D:\0_My lib\ALTIUM
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=psb\Resistor;sch;pcb\;pcb\Термисторы;pcb\DFS;pcb\SO;pcb\Конден
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Resistor 0402$
+LastFocusedTable=Resistor 0603$
 [Table1]
 SchemaName=
 TableName=Resistor 0402$
@@ -32,6 +32,9 @@ TableName=Resistor 0603$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=292|Library Ref0=77|Footprint Ref0=92|Library Path0=85|Footprint Path0=98|Manufacturer0=93|ManufacturerPartNumber0=154|Package0=80|Power/Voltage0=99|Quantity0=67|Rem0=45|TKE0=41|Tolerance0=73|Value0=52|Примечание0=92|Price0=47
 [Table3]
 SchemaName=
 TableName=Resistor 0805$
@@ -62,6 +65,9 @@ TableName=Конденсаторы 0603$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=315|Library Ref0=165|Footprint Ref0=92|Library Path0=201|Footprint Path0=201|Manufacturer0=93|ManufacturerPartNumber0=154|Package0=65|Power/Voltage0=99|Quantity0=67|Rem0=45|TKE0=41|Tolerance0=73|Value0=52|Примечание0=92|Price0=47
 [Table8]
 SchemaName=
 TableName=Конденсаторы 0805$
