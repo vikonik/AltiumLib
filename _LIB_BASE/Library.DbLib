@@ -248,9 +248,6 @@ TableName=Светодиоды$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=252|Library Ref0=77|Footprint Ref0=92|Library Path0=109|Footprint Path0=109|Manufacturer0=139|ManufacturerPartNumber0=154|Package0=65|Power/Voltage0=99|Quantity0=67|Rem0=45|TKE0=41|Tolerance0=73|Value0=52|Примечание0=92|Price0=47|URL0=252|ComponentType0=108|VendorCode0=88
 [Table39]
 SchemaName=
 TableName=Симисторы$
