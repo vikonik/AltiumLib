@@ -74,9 +74,6 @@ TableName=Resistor CAT-16$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=351|-4LFibrary Ref0=93|Footprint Ref0=92|-4LFibrary Path0=99|Footprint Path0=98|Manufacturer0=93|ManufacturerPartNumber0=154|Package0=135|Power/Vo-4LFtage0=117|Quantity0=67|Rem0=45|TKE0=41|To-4LFerance0=91|Va-4LFue0=70|Примечание0=92|Price0=47|UR-4LF0=59|ComponentType0=135|VendorCode0=88|Library Ref0=77|Library Path0=85|Power/VoLtage0=101|Tolerance0=73|Value0=55|URL0=43
 [Table10]
 SchemaName=
 TableName=Resistor FKN200$
