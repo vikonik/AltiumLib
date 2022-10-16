@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25dac982-9580-4ea7-b294-b3da770f0130" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/My_Library/Project Outputs for SHILD_s/SHILD_s.IntLib" beforeDir="false" afterPath="$PROJECT_DIR$/My_Library/Project Outputs for SHILD_s/SHILD_s.IntLib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_LIB_BASE/Base.xls" beforeDir="false" afterPath="$PROJECT_DIR$/_LIB_BASE/Base.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_LIB_BASE/pcb/SO/History/SO.~(3).PcbLib.Zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_LIB_BASE/pcb/SO/History/SO.~(4).PcbLib.Zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_LIB_BASE/pcb/SO/SO.PcbLib" beforeDir="false" afterPath="$PROJECT_DIR$/_LIB_BASE/pcb/SO/SO.PcbLib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_LIB_BASE/pcb/Дроссели/Дроссели.PcbLib" beforeDir="false" afterPath="$PROJECT_DIR$/_LIB_BASE/pcb/Дроссели/Дроссели.PcbLib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_LIB_BASE/sch/Стабилизаторы.SchLib" beforeDir="false" afterPath="$PROJECT_DIR$/_LIB_BASE/sch/Стабилизаторы.SchLib" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2G3Bf1esmsUxerp1UhWIxl3IWJl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25dac982-9580-4ea7-b294-b3da770f0130" name="Changes" comment="" />
+      <created>1665607493893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665607493893</updated>
+    </task>
+    <servers />
+  </component>
+</project>
