@@ -1,5 +1,7 @@
-*.zip
-*.rar
-*.log
-History/*
+*.*
+!createFish.bat
+!_LIB_BASE
+!_рамки
+!_шрифты
+
 
