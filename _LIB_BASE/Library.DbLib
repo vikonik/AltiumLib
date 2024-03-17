@@ -398,12 +398,18 @@ TableName=Разъемы импортные$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=531|Library Ref0=116|Footprint Ref0=116|Library Path0=155|Footprint Path0=155|Manufacturer0=123|ManufacturerPartNumber0=353|Package0=78|Power/Voltage0=99|Quantity0=67|Rem0=45|TKE0=41|Tolerance0=73|Value0=52|Примечание0=92|Price0=47|URL0=222|ComponentType0=108|VendorCode0=88
 [Table64]
 SchemaName=
 TableName=Резисторы подстроичные$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=354|Library Ref0=77|Footprint Ref0=92|Library Path0=182|Footprint Path0=182|Manufacturer0=93|ManufacturerPartNumber0=154|Package0=138|Power/VoLtage0=101|Quantity0=67|Rem0=45|TKE0=41|Tolerance0=73|Value0=52|Примечание0=92|Price0=47|URL0=43|ComponentType0=135|VendorCode0=88
 [Table65]
 SchemaName=
 TableName=Резонаторы$
@@ -693,11 +699,11 @@ Options=FieldName=Диоды$.Library Ref|TableNameOnly=Диоды$|FieldNameOnly=Library 
 [FieldMap99]
 Options=FieldName=Диоды$.Footprint Ref|TableNameOnly=Диоды$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap100]
-Options=FieldName=Диоды$.Library Path|TableNameOnly=Диоды$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap101]
-Options=FieldName=Диоды$.Footprint Path|TableNameOnly=Диоды$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap102]
 Options=FieldName=Диоды$.Footprint Ref 2|TableNameOnly=Диоды$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap101]
+Options=FieldName=Диоды$.Library Path|TableNameOnly=Диоды$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap102]
+Options=FieldName=Диоды$.Footprint Path|TableNameOnly=Диоды$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap103]
 Options=FieldName=Дроссели на кольце$.Part Number|TableNameOnly=Дроссели на кольце$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap104]
@@ -797,11 +803,11 @@ Options=FieldName=Конденсаторы 0603$.Library Ref|TableNameOnly=Конденсаторы 0603
 [FieldMap151]
 Options=FieldName=Конденсаторы 0603$.Footprint Ref|TableNameOnly=Конденсаторы 0603$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap152]
-Options=FieldName=Конденсаторы 0603$.Library Path|TableNameOnly=Конденсаторы 0603$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap153]
-Options=FieldName=Конденсаторы 0603$.Footprint Path|TableNameOnly=Конденсаторы 0603$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap154]
 Options=FieldName=Конденсаторы 0603$.Footprint Ref 2|TableNameOnly=Конденсаторы 0603$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap153]
+Options=FieldName=Конденсаторы 0603$.Library Path|TableNameOnly=Конденсаторы 0603$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap154]
+Options=FieldName=Конденсаторы 0603$.Footprint Path|TableNameOnly=Конденсаторы 0603$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap155]
 Options=FieldName=Конденсаторы 0805$.Part Number|TableNameOnly=Конденсаторы 0805$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap156]
@@ -809,11 +815,11 @@ Options=FieldName=Конденсаторы 0805$.Library Ref|TableNameOnly=Конденсаторы 0805
 [FieldMap157]
 Options=FieldName=Конденсаторы 0805$.Footprint Ref|TableNameOnly=Конденсаторы 0805$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap158]
-Options=FieldName=Конденсаторы 0805$.Library Path|TableNameOnly=Конденсаторы 0805$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap159]
-Options=FieldName=Конденсаторы 0805$.Footprint Path|TableNameOnly=Конденсаторы 0805$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap160]
 Options=FieldName=Конденсаторы 0805$.Footprint Ref 2|TableNameOnly=Конденсаторы 0805$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap159]
+Options=FieldName=Конденсаторы 0805$.Library Path|TableNameOnly=Конденсаторы 0805$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap160]
+Options=FieldName=Конденсаторы 0805$.Footprint Path|TableNameOnly=Конденсаторы 0805$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap161]
 Options=FieldName=Конденсаторы 1206$.Part Number|TableNameOnly=Конденсаторы 1206$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap162]
@@ -821,11 +827,11 @@ Options=FieldName=Конденсаторы 1206$.Library Ref|TableNameOnly=Конденсаторы 1206
 [FieldMap163]
 Options=FieldName=Конденсаторы 1206$.Footprint Ref|TableNameOnly=Конденсаторы 1206$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap164]
-Options=FieldName=Конденсаторы 1206$.Library Path|TableNameOnly=Конденсаторы 1206$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap165]
-Options=FieldName=Конденсаторы 1206$.Footprint Path|TableNameOnly=Конденсаторы 1206$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap166]
 Options=FieldName=Конденсаторы 1206$.Footprint Ref 2|TableNameOnly=Конденсаторы 1206$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap165]
+Options=FieldName=Конденсаторы 1206$.Library Path|TableNameOnly=Конденсаторы 1206$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap166]
+Options=FieldName=Конденсаторы 1206$.Footprint Path|TableNameOnly=Конденсаторы 1206$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap167]
 Options=FieldName=Конденсаторы 1210$.Part Number|TableNameOnly=Конденсаторы 1210$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap168]
