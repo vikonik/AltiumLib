@@ -398,18 +398,12 @@ TableName=Разъемы импортные$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=531|Library Ref0=116|Footprint Ref0=116|Library Path0=155|Footprint Path0=155|Manufacturer0=123|ManufacturerPartNumber0=353|Package0=78|Power/Voltage0=99|Quantity0=67|Rem0=45|TKE0=41|Tolerance0=73|Value0=52|Примечание0=92|Price0=47|URL0=222|ComponentType0=108|VendorCode0=88
 [Table64]
 SchemaName=
 TableName=Резисторы подстроичные$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=354|Library Ref0=77|Footprint Ref0=92|Library Path0=182|Footprint Path0=182|Manufacturer0=93|ManufacturerPartNumber0=154|Package0=138|Power/VoLtage0=101|Quantity0=67|Rem0=45|TKE0=41|Tolerance0=73|Value0=52|Примечание0=92|Price0=47|URL0=43|ComponentType0=135|VendorCode0=88
 [Table65]
 SchemaName=
 TableName=Резонаторы$
