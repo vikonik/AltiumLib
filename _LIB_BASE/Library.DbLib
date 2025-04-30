@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=D:\Project\0_Altiu
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=psb\Resistor;sch;pcb\;pcb\Термисторы;pcb\DFS;pcb\SO;pcb\Конден
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Разъемы импортные BxP-VH$
+LastFocusedTable=Модули$
 [Table1]
 SchemaName=
 TableName=AC_DC$
@@ -322,16 +322,13 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=424|Library Ref0=113|Footprint Ref0=153|Footprint Ref 20=139|Library Path0=155|Footprint Path0=98|Part Number Euro0=380|Manufacturer0=123|ManufacturerPartNumber0=335|Package0=65|Power/Voltage0=99|Quantity0=67|Rem0=45|TKE0=41|Tolerance0=73|Value Euro0=79|Value0=52|Value Sch0=73|Примечание0=92|Price0=47|URL0=43|ComponentType0=140|VendorCode0=88
+BrowserOrder_Visible=Part Number0=421|Library Ref0=113|Footprint Ref0=153|Footprint Ref 20=139|Library Path0=155|Footprint Path0=98|Part Number Euro0=377|Manufacturer0=123|ManufacturerPartNumber0=332|Package0=65|Power/Voltage0=99|Quantity0=67|Rem0=45|TKE0=41|Tolerance0=73|Value Euro0=79|Value0=52|Value Sch0=73|Примечание0=92|Price0=47|URL0=43|ComponentType0=140|VendorCode0=88
 [Table51]
 SchemaName=
 TableName=Мосты диодные$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=220|Library Ref0=137|Footprint Ref0=92|Library Path0=129|Footprint Path0=98|Part Number Euro0=139|Manufacturer0=93|ManufacturerPartNumber0=154|Package0=65|Power/Voltage0=99|Quantity0=67|Rem0=45|TKE0=41|Tolerance0=73|Value0=52|Value Euro0=79|Value Sch0=73|Примечание0=92|Price0=47|URL0=43|ComponentType0=108|VendorCode0=88
 [Table52]
 SchemaName=
 TableName=Оптопары$
@@ -398,9 +395,6 @@ TableName=Разъемы импортные BxP-VH$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=125|Library Ref0=77|Footprint Ref0=92|Library Path0=155|Footprint Path0=155|Part Number Euro0=114|Manufacturer0=93|ManufacturerPartNumber0=154|Package0=65|Power/Voltage0=99|Quantity0=67|Rem0=45|TKE0=41|Tolerance0=73|Value0=52|Value Euro0=79|Value Sch0=73|Примечание0=92|Price0=47|URL0=43|ComponentType0=108|VendorCode0=88
 [Table63]
 SchemaName=
 TableName=Разъемы импортные CWF$
