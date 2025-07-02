@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=D:\Project\0_AltiumLib\_LIB_BASE\Base.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=D:\0_My lib\ALTIUM\_LIB_BASE\Base.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,11 @@ LibrarySearchPath=psb\Resistor;sch;pcb\;pcb\Термисторы;pcb\DFS;pcb\SO;pcb\Конден
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
+<<<<<<< HEAD
 LastFocusedTable=Модули$
+=======
+LastFocusedTable=AC_DC$
+>>>>>>> d0c8af847664ac43893411c8117c16496db19252
 [Table1]
 SchemaName=
 TableName=AC_DC$
@@ -320,9 +324,12 @@ TableName=Модули$
 Enabled=True
 UserWhere=0
 UserWhereText=
+<<<<<<< HEAD
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
 BrowserOrder_Visible=Part Number0=421|Library Ref0=113|Footprint Ref0=153|Footprint Ref 20=139|Library Path0=155|Footprint Path0=98|Part Number Euro0=377|Manufacturer0=123|ManufacturerPartNumber0=332|Package0=65|Power/Voltage0=99|Quantity0=67|Rem0=45|TKE0=41|Tolerance0=73|Value Euro0=79|Value0=52|Value Sch0=73|Примечание0=92|Price0=47|URL0=43|ComponentType0=140|VendorCode0=88
+=======
+>>>>>>> d0c8af847664ac43893411c8117c16496db19252
 [Table51]
 SchemaName=
 TableName=Мосты диодные$
