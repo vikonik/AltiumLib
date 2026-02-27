@@ -13,3 +13,4 @@ cd 1_HARD
 @echo !*.SchDoc>>.gitignore
 @echo !*.PcbDoc>>.gitignore
 @echo !*.OutJob>>.gitignore
+@echo **/History/>>.gitignore
