@@ -1,0 +1,1 @@
+gcc cleaner.c -o cleaner.exe
