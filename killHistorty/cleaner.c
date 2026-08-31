@@ -34,6 +34,11 @@ void DeleteDirectory(const char *path) {
     RemoveDirectory(path);
 }
 
+// Функция проверки, начинается ли имя с префикса (регистронезависимо)
+int StartsWith(const char *str, const char *prefix) {
+    return _strnicmp(str, prefix, strlen(prefix)) == 0;
+}
+
 void WalkDirectory(const char *base_path) {
     char search_path[MAX_PATH_LEN];
     WIN32_FIND_DATA find_data;
@@ -53,7 +58,23 @@ void WalkDirectory(const char *base_path) {
             char full_path[MAX_PATH_LEN];
             snprintf(full_path, sizeof(full_path), "%s\\%s", base_path, find_data.cFileName);
 
+            // Проверяем имена папок для удаления (регистронезависимо)
+            int delete_this = 0;
+            
+            // Папка History
             if (_stricmp(find_data.cFileName, "History") == 0) {
+                delete_this = 1;
+            }
+            // Папки Project Logs* (начинаются с "Project Logs")
+            else if (StartsWith(find_data.cFileName, "Project Logs")) {
+                delete_this = 1;
+            }
+            // Папка __Previews
+            else if (_stricmp(find_data.cFileName, "__Previews") == 0) {
+                delete_this = 1;
+            }
+
+            if (delete_this) {
                 printf("[НАЙДЕНО] %s\n", full_path);
                 printf("[УДАЛЕНИЕ] ... ");
                 DeleteDirectory(full_path);
@@ -89,7 +110,8 @@ int main(int argc, char *argv[]) {
         }
 
         printf("=========================================\n");
-        printf("  Очистка History (Altium Designer)\n");
+        printf("  Очистка Altium Designer\n");
+        printf("  (History, Project Logs*, __Previews)\n");
         printf("=========================================\n\n");
         printf("Целевая папка: %s\n", start_dir);
         printf("Текущая папка: %s\n\n", current_dir);
@@ -107,12 +129,13 @@ int main(int argc, char *argv[]) {
             return 1;
         }
 
-        printf("Поиск папок 'History'...\n\n");
+        printf("Поиск папок 'History', 'Project Logs*' и '__Previews'...\n\n");
         WalkDirectory(start_dir);
 
     } else {
         printf("=========================================\n");
-        printf("  Очистка History (Altium Designer)\n");
+        printf("  Очистка Altium Designer\n");
+        printf("  (History, Project Logs*, __Previews)\n");
         printf("=========================================\n\n");
         printf("Папка не указана.\n");
         printf("Поиск в ТЕКУЩЕЙ папке:\n");
